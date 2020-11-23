@@ -4,6 +4,7 @@
 * Print the array with the same size of N
 * The output array items must have exactly same number of input array items except in different sequence order
 * You may choose whatever programming language
+    + Note: If you choose Javascript, please use reduce() to implement it
 
 **Example 1:**
 
