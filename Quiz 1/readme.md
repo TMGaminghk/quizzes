@@ -2,7 +2,7 @@
 * Given an array of size N
 * The task is to write a program to scramble an array in random order
 * Print the array with the same size of N
-* The output array items must not have any repeat
+* The output array items must have exactly same number of input array items except in different sequence order
 * You may choose whatever programming language
 
 **Example 1:**
